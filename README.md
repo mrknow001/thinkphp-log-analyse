@@ -9,7 +9,7 @@
 
 **查询结果**
 
-![image](https://github.com/mrknow001/thinkphp-log-analyse/blob/main/image/result.png)
+![image](https://github.com/mrknow001/thinkphp-log-analyse/blob/main/image/result1.png)
 
 
 **自定义匹配**
